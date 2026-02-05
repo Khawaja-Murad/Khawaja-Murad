@@ -36,5 +36,5 @@ I am a **Computer Engineer & AI Researcher** specializing in **deep learning, co
 ## 📫 Contact Me
 
 Feel free to reach out for **collaborations, research discussions, or AI projects**:  
-- **Email:** khawajamuradl@outlook.com  
+- **Email:** khawajamurad@outlook.com  
 - **LinkedIn:** [Khawaja Murad](https://www.linkedin.com/in/khawaja-murad-ul-hassan-9b1113215/)  
